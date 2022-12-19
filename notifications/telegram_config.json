@@ -6,6 +6,7 @@
     "reportLink": "",
     "language": "en",
     "allureFolder": "tests/allure-results/",
+    "messenger": "telegram",
     "enableChart": true
   },
   "telegram": {
